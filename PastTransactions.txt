@@ -1,0 +1,10 @@
+dsads@gmail.com|1234|null|Smile|1|1|0|0|0.0
+dsads@gmail.com|1234|Jurong Cineplex01021012|Smile|1|1|0|0|360.0
+keithajy@gmail.com|123|JP0202211121921|Paradise ticket|4|2|1|1|360.0
+YOU@MAIL.COM|62812782|JP0202211122035|Paradise ticket|3|1|1|1|30.0
+123abc@gmail.com|123456|JP0202211122125|Paradise ticket|1|0|0|1|14.0
+potato|999|JP3202211130228|Stratton|1|0|0|1|10.5
+zhiyong@gmail.com|81234567|BD5202211130348|Smile 3|1|0|0|1|15.0
+zhiyong@gmail.com|81234567|BD5202211130349|Smile 3|1|0|0|1|15.0
+zhiyong@gmail.com|81234567|BD5202211130353|Smile 3|1|0|0|1|262.5
+zhiyong@gmail.com|81234567|BD8202211130359|SC2002 Project|1|0|0|1|6.0
