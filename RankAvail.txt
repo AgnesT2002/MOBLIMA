@@ -1,0 +1,2 @@
+TotalSales|AvgRating
+TRUE|TRUE
